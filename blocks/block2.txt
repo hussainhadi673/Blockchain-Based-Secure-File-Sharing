@@ -1,0 +1,7 @@
+Index: 2
+Timestamp: 10 June 2023 , 02:07:30 PM
+Proof: 45293
+Previous Hash: 64ef9dfc42ec4b6affa983aa7030664c6c0389ced8393c290704f459eb54ae02
+Sender ID: XYZ
+Reciever ID: ABC
+IPFS Hash: QmZPgRkBSLxdFEz4eUgfy7faDbACSPUVLaCvMb57Yj12AH

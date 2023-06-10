@@ -1,0 +1,5 @@
+ipfshttpclient
+flask
+flask_socketio
+sockets
+pyAesCrypt
