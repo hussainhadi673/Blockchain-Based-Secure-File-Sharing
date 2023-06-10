@@ -9,7 +9,7 @@ This repository contains the code for blockchain based secure file sharing.
 
 2. Go the 'my_constants.py' file and chnage the upload and download folder path according where you have put the code in your system.
 
-3. Run 
+3. Install dependencies using
 '''bash
 pip install -r requirements.txt
 '''
